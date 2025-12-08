@@ -8,7 +8,7 @@ No description provided.
 
 ## Technologies Used
 
-- **Stack:** AWS, Java
+- **Stack:** AWS, Java, Mermaid
 - **GitHub Topics:** None
 
 ## Architecture Overview
